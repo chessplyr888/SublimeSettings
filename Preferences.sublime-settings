@@ -1,6 +1,7 @@
 {
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/freshcut-contrast (SL).tmTheme",
+	"color_scheme": "Packages/User/Tomorrow-Night (SL).tmTheme",
+	"default_line_ending": "unix",
 	"fade_fold_buttons": false,
 	"font_face": "Source Code Pro",
 	"font_size": 8,
@@ -8,7 +9,8 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"BracketHighlighter"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
