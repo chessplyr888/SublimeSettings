@@ -1,6 +1,6 @@
 {
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/Tomorrow-Night (SL).tmTheme",
+	"color_scheme": "Packages/User/base16-ocean.dark (SL).tmTheme",
 	"default_line_ending": "unix",
 	"fade_fold_buttons": false,
 	"font_face": "Source Code Pro",
@@ -9,8 +9,8 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"BracketHighlighter"
+		"BracketHighlighter",
+		"Vintage"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
